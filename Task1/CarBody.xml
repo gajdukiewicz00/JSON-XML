@@ -1,0 +1,7 @@
+<CarBody>
+    <BodyType>sedan</BodyType>
+    <NumberOfDoorsAndSeats>4/5</NumberOfDoorsAndSeats>
+    <GroundClearance_mm>160</GroundClearance_mm>
+    <TrunkCapacity_l>520</TrunkCapacity_l>
+    <TireSize>175/65 R14</TireSize>
+</CarBody>

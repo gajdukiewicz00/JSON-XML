@@ -1,0 +1,30 @@
+<Catalog>
+    <Product>
+        <Name>
+            <Polish>Produkt1</Polish>
+            <English>Product1</English>
+        </Name>
+        <Reference>REF123</Reference>
+        <Dimensions>
+            <Length>100</Length>
+            <Width>50</Width>
+            <Height>20</Height>
+        </Dimensions>
+        <Color>Red</Color>
+        <Year>2022</Year>
+    </Product>
+    <Product>
+        <Name>
+            <Polish>Produkt2</Polish>
+            <English>Product2</English>
+        </Name>
+        <Reference>REF456</Reference>
+        <Dimensions>
+            <Length>200</Length>
+            <Width>100</Width>
+            <Height>50</Height>
+        </Dimensions>
+        <Color>Blue</Color>
+        <Year>2023</Year>
+    </Product>
+</Catalog>

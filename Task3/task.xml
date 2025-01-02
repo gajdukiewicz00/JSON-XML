@@ -1,0 +1,31 @@
+<PetDetailsForm>
+    <PhotoUpload>Upload Photo</PhotoUpload>
+    <Fields>
+        <PetName>
+            <Label>Enter Pet's Name</Label>
+            <Placeholder>Enter your pet's name</Placeholder>
+        </PetName>
+        <PetSpecies>
+            <Label>Select Pet Species</Label>
+            <Placeholder>Select your pet species</Placeholder>
+        </PetSpecies>
+        <Age>
+            <Label>Enter Age</Label>
+            <Placeholder>Enter age of your pet</Placeholder>
+        </Age>
+        <Weight>
+            <Label>Enter Weight</Label>
+            <Placeholder>Enter weight of your pet</Placeholder>
+        </Weight>
+        <Gender>
+            <Label>Select Gender</Label>
+            <Options>
+                <Option>Male</Option>
+                <Option>Female</Option>
+            </Options>
+        </Gender>
+    </Fields>
+    <SubmitButton>
+        <Label>Submit Details</Label>
+    </SubmitButton>
+</PetDetailsForm>

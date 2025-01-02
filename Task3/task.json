@@ -1,0 +1,30 @@
+{
+  "PetDetailsForm": {
+    "PhotoUpload": "Upload Photo",
+    "Fields": {
+      "PetName": {
+        "Label": "Enter Pet's Name",
+        "Placeholder": "Enter your pet's name"
+      },
+      "PetSpecies": {
+        "Label": "Select Pet Species",
+        "Placeholder": "Select your pet species"
+      },
+      "Age": {
+        "Label": "Enter Age",
+        "Placeholder": "Enter age of your pet"
+      },
+      "Weight": {
+        "Label": "Enter Weight",
+        "Placeholder": "Enter weight of your pet"
+      },
+      "Gender": {
+        "Label": "Select Gender",
+        "Options": ["Male", "Female"]
+      }
+    },
+    "SubmitButton": {
+      "Label": "Submit Details"
+    }
+  }
+}

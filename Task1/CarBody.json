@@ -1,0 +1,9 @@
+{
+  "CarBody": {
+    "BodyType": "sedan",
+    "NumberOfDoorsAndSeats": "4/5",
+    "GroundClearance_mm": 160,
+    "TrunkCapacity_l": 520,
+    "TireSize": "175/65 R14"
+  }
+}

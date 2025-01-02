@@ -1,0 +1,34 @@
+{
+  "Catalog": {
+    "Products": [
+      {
+        "Name": {
+          "Polish": "Produkt1",
+          "English": "Product1"
+        },
+        "Reference": "REF123",
+        "Dimensions": {
+          "Length": 100,
+          "Width": 50,
+          "Height": 20
+        },
+        "Color": "Red",
+        "Year": 2022
+      },
+      {
+        "Name": {
+          "Polish": "Produkt2",
+          "English": "Product2"
+        },
+        "Reference": "REF456",
+        "Dimensions": {
+          "Length": 200,
+          "Width": 100,
+          "Height": 50
+        },
+        "Color": "Blue",
+        "Year": 2023
+      }
+    ]
+  }
+}
